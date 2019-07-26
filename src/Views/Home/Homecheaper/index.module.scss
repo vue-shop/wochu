@@ -1,0 +1,21 @@
+   .temp_title{
+    background: #fff;
+    height: auto;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 0;
+    line-height: 20px;
+    color: #001e00;
+    border-bottom: 1px solid #e5e5e5;
+    span{
+        width: 75px;
+        height: 1px;
+        display: inline-block;
+        border-bottom: 1px solid #011e00;
+        margin: 0 11px;
+        .line_rt{
+
+        }
+    }
+   }
